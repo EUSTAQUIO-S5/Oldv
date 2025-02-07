@@ -18,6 +18,7 @@ TagManager:
   - ScreenTrigger
   - Socket
   - scrw
+  - PhoneScreen
   layers:
   - Default
   - TransparentFX
@@ -26,7 +27,7 @@ TagManager:
   - Water
   - UI
   - screen
-  - 
+  - Nothing
   - 
   - 
   - 
@@ -54,7 +55,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Screen
-    uniqueID: 1090788469
     locked: 0

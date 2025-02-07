@@ -15,7 +15,7 @@ MonoBehaviour:
   m_LayerNames:
   - Default
   - Teleport
-  - Screen
+  - PhoneScreen
   - motherboard
   - battery
   - front camera
@@ -35,8 +35,8 @@ MonoBehaviour:
   - scalpel
   - glue
   - scrw
-  - 
-  - 
+  - Default
+  - Nothing
   - 
   - 
   - 
